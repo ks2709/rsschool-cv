@@ -1,2 +1,2 @@
-feat: update cv.md file
+feat: add social links
 
